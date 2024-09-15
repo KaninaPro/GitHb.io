@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru"><!--Заменить en на ru-->
+<head><!--Заголовок-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Пробник</title>
+</head>
+<body>
+    <header><!--Шапка сайта-->
+        <nav>
+            <a href="#">Обо мне</a>
+            <a href="#">Навыки</a>
+            <a href="#">Технология</a>
+
+        </nav>
+<h1>Капина Антонина</h1>
+<h2>Дизайнер</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint deleniti accusamus perferendis blanditiis!
+     Numquam fugit libero eaque dignissimos, iusto repudiandae reiciendis accusantium corrupti eius, 
+     excepturi at officia aliquid. Nulla, vel?</p><!--Рыба текст -> Lorem 30 -> Enter-->
+     <a href="https://t.me/KnnaPro">Написать мне</a>
+    </header>
+    <main><!--Основное содержание-->
+        <section id="about"><!--написать selection id потом enter-->
+            <h2>Обо мне</h2>
+            <img src="images/Без названия.jfif" alt="Аватар" height="300px"><!--Изображение -> scr "название папки,
+             где лежит изображение -> images/выбрать из предложенных -> после аватара height (высота) 300px "-->
+             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam fugiat itaque ullam minus, nemo illo porro 
+                consequatur consequuntur distinctio sapiente sit eveniet in eum rem fugit a accusamus consectetur culpa vero et saepe 
+                repudiandae dolorum soluta. Quos rerum asperiores quibusdam rem culpa architecto dignissimos aliquam minus. Tenetur 
+                ducimus minus atque? Asperiores est ipsum vero? Similique blanditiis explicabo voluptate iste dignissimos deserunt in 
+                animi doloremque quia aperiam consequatur, eaque nihil, officiis adipisci praesentium. Distinctio accusamus ullam 
+                obcaecati architecto consectetur debitis at, possimus repellat fuga? Perferendis voluptates consequuntur cum odit 
+                tenetur saepe ducimus earum? Vitae laborum voluptas soluta inventore. Impedit, veniam rerum?</p>
+<a href="#">Подробнее</a>
+
+        </section>
+         <section id="skills">
+            <h2>Навыки</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat reiciendis rerum reprehenderit commodi vitae, 
+                dolores atque vel minus, voluptatem porro voluptas autem ad nihil ipsa harum. Ipsa fuga qui sequi!</p>
+
+        </section>
+        <section id="tech">
+            <h2>Технология</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, fugit?</p>
+            <ul>
+                <li>Adobe Illustrator</li>
+                <li>Adobe Photoshop</li>
+                <li>Adobe InDesign</li>
+            </ul>
+            <a href="#">Подробнее</a>
+        </section>
+    
+    </main>
+    <footer>
+        <p>&copy; Капина Антонина</p>
+    </footer><!--Нижнее меню/подвал-->
+</body>
+</html>
